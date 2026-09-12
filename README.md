@@ -1,0 +1,1 @@
+# 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
