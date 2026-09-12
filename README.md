@@ -20,26 +20,33 @@ Op-amp in open-loop configuration has a very few application because of its enor
 2.	Non-inverting amplifier.
 3.	Differential amplifier.
 The entire configuration can be operated with either AC or DC input.
+
 **INVERTING AMPLIFIER:**
 This is the most widely used op-amp. Here, the output voltage Vo is feedback to the inverting input terminal through the Rf – R1 network. The negative sign in gain indicates the phase shift of 180ο.
 The circuit closed-loop voltage gain is Avcl= -RF / R1
+
 **NON - INVERTING AMPLIFIER:**
 If signal is applied to the non-inverting input terminal of op-amp without inverting the input signal such a circuit is called non-inverting amplifier. Here the output is feedback to the inverting input terminal. The phase shift of input signal does not occur in non-inverting terminal.
 The circuit closed-loop voltage gain is ACL = 1 + ( RF / R1)
+
 **DIFFERENTIAL AMPLIFIER**
 A circuit that amplifies that amplifies the difference between two input signals is called as differential amplifier. It is useful in instrumentation amplifier. If the two input signals are the same, the output should be zero. Differential amplifier with a single op-amp has the exact gain of an inverting amplifier and it is given as
 𝐴	= 	𝑉𝑜/(V2-V1) = −𝑅𝑓/R1
+
 **DESIGN:**
+
 **Inverting amplifier:**
     Gain is     A = -Rf/R1
         Take  A = 10
         Rf =10 R1
         Choose R1 = 1kΩ, Rf=10kΩ
+        
 **Non inverting amplifier:**
     Gain is    A = 1+ Rf/R1
       Take A = 2
       Rf = R1
       Choose Rf = 10kΩ, R1=10kΩ
+      
 **Differential amplifier**
   Gain is 𝐴=	𝑉𝑜/(𝑉1− V2)= − 𝑅𝑓/𝑅1
 Take  A = 10
@@ -55,7 +62,8 @@ Choose R1 = 1kΩ, Rf=10kΩ
 5.	Calculate the practical Voltage for different value of V1& compare it with theoretical output.
 6.	Practical gain & theoretical voltage should be approximately equal.
 7.	Plot the graph of the input wave versus output wave for any one practical case.
- Differential amplifier:
+   
+** Differential amplifier:**
 1.	Select the value of R1, R2, R3 & Rf such that R1=R2 and R3=Rf.
 2.	Connect the circuit as per as the circuit diagram.
 3.	Provide constant input voltage Vin1 to Non-inverting terminal of op-amp through R1 & constant input voltage Vin2 to inverting terminal of op-amp through R2.
