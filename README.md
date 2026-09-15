@@ -1,3 +1,4 @@
+
 # 1.Design-implement-and-simulation-of-Inverting-noninverting-and-Differential-amplifier
 
 **AIM:**
@@ -83,7 +84,6 @@ Choose R1 = 1kΩ, Rf=10kΩ
   <img width="776" height="378" alt="image" src="https://github.com/user-attachments/assets/2faabc37-51ec-487b-8706-a33138048251" />
 
 
-
   **MODEL GRAPH:**
   
 <img width="532" height="372" alt="image" src="https://github.com/user-attachments/assets/120c5c43-9ab2-4e63-b090-28c9229b6868" />
@@ -91,7 +91,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
   
-
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 14 AM" src="https://github.com/user-attachments/assets/41ecc359-c179-4b05-9195-64425c569735" />
 
  
 
@@ -109,7 +109,7 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
 
-
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 22 AM" src="https://github.com/user-attachments/assets/120a20de-ac59-457d-8aea-56da5f11bef9" />
 
 
   **DIFFERENTIAL AMPLIFIER:**
@@ -125,13 +125,13 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
   **TABULATION:**
 
-
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 50 31 AM" src="https://github.com/user-attachments/assets/448d192c-1159-4870-9826-942424ad0142" />
 
   **Graph**
 
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 49 43 AM" src="https://github.com/user-attachments/assets/4538f4b6-cc6c-4913-93ce-741d156c8bdb" />
 
-
-
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-15 at 10 49 56 AM" src="https://github.com/user-attachments/assets/f56079ef-c768-427b-a1be-d2f1a6fb08f4" />
 
 **LT-SPICE Tool:**<BR/>
 ***PROCEDURE:***<BR/>
