@@ -133,23 +133,28 @@ Choose R1 = 1kΩ, Rf=10kΩ
 
 
 
-**LT-SPICE Tool:PROCEDURE:**
-•	Double click on LT-Spice icon.
-•	New schematic window open.
+**LT-SPICE Tool:**<BR/>
+***PROCEDURE:***<BR/>
+•	Double click on LT-Spice icon.<BR/>
+•	New schematic window open.<BR/>
 •	Pick and paste the required component from the library and draw the circuit diagram .
-•	Complete the connection.
-•	Save the file by giving file name.
-•	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
-•	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
+<BR/>•	Complete the connection.
+<BR/>•	Save the file by giving file name.
+<BR/>•	Click on the run option ->click advanced open ->select Ac analysis->enter the amplitude time delay stop time value.
+<BR/>•	Click on the run option ->simulation window opens->place the probe ->output graph is obtained.
  
   **LT SPICE**
   **CIRCUIT and Waveform**
 
+  <img width="1536" height="472" alt="WhatsApp Image 2026-07-30 at 9 11 57 AM (2)" src="https://github.com/user-attachments/assets/8b9cc114-ead9-4e89-a9c5-3f1aeaa3f1d2" />
 
+<img width="1372" height="381" alt="WhatsApp Image 2026-07-30 at 9 11 57 AM (1)" src="https://github.com/user-attachments/assets/ba3e6893-2519-4e1f-9c08-d50306d6013f" />
 
-  
+<img width="1473" height="391" alt="WhatsApp Image 2026-07-30 at 9 11 57 AM" src="https://github.com/user-attachments/assets/abfb8df5-5c86-4f82-8c17-b9e85442c831" />
+
 
 **RESULT:**
+
 Thus the Inverting, Non-Inverting and Differential Amplifiers are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
  
 
